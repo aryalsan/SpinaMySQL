@@ -13,7 +13,7 @@
 Add the following line to your Gemfile:
 
 ```ruby
-gem 'spina'
+gem 'spina' github: 'aryalsan/SpinaMySQL'
 ```
 
 Run the installer to start the setup process:
